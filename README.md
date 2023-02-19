@@ -4,6 +4,11 @@
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 
+# 사용한 라이브러리
+Pillow
+streamlit
+boto3
+
 
 ## 사용 방법
 - my Git repository Clone
