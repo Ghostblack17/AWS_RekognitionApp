@@ -5,9 +5,9 @@
 
 
 # 사용한 라이브러리
-Pillow
-streamlit
-boto3
+- Pillow
+- streamlit
+- boto3
 
 
 ## 사용 방법
