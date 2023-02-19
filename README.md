@@ -16,6 +16,7 @@ boto3
 - Terminal - 'pip install -r requirements.txt'
 - streamlit run `face_analysis_app.py`
 
+
 ## 스크린샷
 <img src="https://github.com/Ghostblack17/AWS_RekognitionApp/blob/master/test1.png">
 
